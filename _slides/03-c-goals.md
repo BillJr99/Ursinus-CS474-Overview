@@ -10,9 +10,9 @@ transition: zoom
 <div class="paragraph">
     <p>
         <span class="image">
-            <img src="https://nationalcenterformobilitymanagement.org/wp-content/uploads/2019/11/N_Robot-food_Via.jpg" width="60%" />
-            <br>
-            From <a href="https://nationalcenterformobilitymanagement.org/blog/what-can-we-learn-from-emily-ackermans-fight-with-a-sidewalk-robot/">The National Center for Mobility Management</a>
+            <img src="https://nationalcenterformobilitymanagement.org/wp-content/uploads/2019/11/N_Robot-food_Via.jpg" width="40%" />
         </span> 
     </p>
+    
+    From <a href="https://nationalcenterformobilitymanagement.org/blog/what-can-we-learn-from-emily-ackermans-fight-with-a-sidewalk-robot/">The National Center for Mobility Management</a>
 </div>
