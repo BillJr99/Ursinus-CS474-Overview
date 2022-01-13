@@ -5,7 +5,7 @@ transition: zoom
 ## What this Course is About
 
 - Design flaws can be dangerous!
-- How likely is it that disabled persons were included as stakeholders when these design elements were discussed?
+- What's wrong with this?
 
 <div class="paragraph">
     <p>
@@ -14,3 +14,8 @@ transition: zoom
         </span> 
     </p>
 </div>
+
+<!-- asides: They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard). -->
+<aside markdown="1" class="notes">
+How likely is it that disabled persons were included as stakeholders when these design elements were discussed?
+</aside>
